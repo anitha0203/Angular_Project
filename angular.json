@@ -59,7 +59,8 @@
               "vendorChunk": true,
               "extractLicenses": false,
               "sourceMap": true,
-              "namedChunks": true
+              "namedChunks": true,
+              "baseHref": "/angular-project/"
             }
           },
           "defaultConfiguration": "production"
